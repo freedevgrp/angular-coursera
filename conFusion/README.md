@@ -25,3 +25,25 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+
+## Links
+
+https://cli.angular.io/
+https://material.angular.io/
+https://material.angular.io/components/toolbar/overview
+https://github.com/angular/flex-layout
+https://github.com/angular/flex-layout/wiki/API-Documentation
+
+
+http://www.typescriptlang.org/index.html
+http://www.typescriptlang.org/docs/tutorial.html
+http://www.typescriptlang.org/docs/handbook/migrating-from-javascript.html
+
+https://en.wikipedia.org/wiki/Software_framework
+https://en.wikipedia.org/wiki/Hollywood_principle
+https://en.wikipedia.org/wiki/Inversion_of_control
+https://netguru.co/blog/imperative-vs-declarative
+http://latentflip.com/imperative-vs-declarative/
+
+https://medium.com/@ladyleet/using-angular-material2-components-in-your-angular-2-project-intro-custom-styles-buttons-d2178e4b45c5#.y8cz8yk0r
+http://codenugget.co/2015/03/05/declarative-vs-imperative-programming-web.html
